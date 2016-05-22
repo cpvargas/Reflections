@@ -26,3 +26,10 @@ Describe the differences between forks, clones, and branches. When would you use
     If a change is made it has to be committed first and then pushed. Pulling is different
     from cloning, cloning is the first step to get the repo in a local machine pulling is
     a way to update.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    The main benefit is that we will know the difference between the last remote and changes
+    pushed to GitHub and our changes that we couldnt/didnt push to GitHub but we made locally
+    if we didn't have a different branch for local-remote sync it would be pretty difficult 
+    to fix merging problems.
