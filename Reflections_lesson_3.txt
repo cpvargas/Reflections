@@ -38,5 +38,13 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
     Collaboration could be done in a shared folder in dropbox for example or a shared document
     in google docs. It would be easier to make change in files but not at the same time, would
-    be pretty hard or annoying to work at the same document or at the same time in the same files
+    be pretty hard or annoying to work at the same document or at the same time in the same files.
 
+When would you want to make changes in a separate branch rather than directly in master? What
+benefits does each approach have?
+
+    You want to make changes in a separate branch When you aren't working alone, one benefit of 
+    using branches is that everyone can rely on the master branch to implemment their changes,
+    and no matter how much people are working on a project the changes will be made one by one
+    on the master branch. If you're working alone and you're not making any experimental change
+    working on the master branch is fine.
