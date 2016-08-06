@@ -33,3 +33,10 @@ What is the benefit of having a copy of the last known state of the remote store
     pushed to GitHub and our changes that we couldnt/didnt push to GitHub but we made locally
     if we didn't have a different branch for local-remote sync it would be pretty difficult 
     to fix merging problems.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+    Collaboration could be done in a shared folder in dropbox for example or a shared document
+    in google docs. It would be easier to make change in files but not at the same time, would
+    be pretty hard or annoying to work at the same document or at the same time in the same files
+
